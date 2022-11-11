@@ -1,0 +1,5 @@
+VARIABLES: Lugar donde se guarda informacion dentro de la memoria de la pc.
+STRINGS: Son expresiones que se escriben con letras.
+FUNCIONES (ARGUMENTOS, RETURN): es un codigo de programacion que realiza una operacion.
+DECLARACIONES: es una afirmacion, una confirmacion de algo. 1 + 1 = 2, es una declaracion.
+VALORES BOOLEANOS: son datos que tiene 2 respuestas definidas, segun el criterio que se tome. ejemplo: verdadero o falso.
